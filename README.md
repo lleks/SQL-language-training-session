@@ -1,4 +1,4 @@
-# My SQL language training session
+# SQL language training session
 
 ## Short database description "Computer firm":
 
