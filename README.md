@@ -4,13 +4,13 @@
 
 The database scheme consists of four tables:
 
-Product (maker, model, type)
+`Product (maker, model, type)`
 
-PC (code, model, speed, ram, hd, cd, price)
+`PC (code, model, speed, ram, hd, cd, price)`
 
-Laptop (code, model, speed, ram, hd, screen, price)
+`Laptop (code, model, speed, ram, hd, screen, price)`
 
-Printer (code, model, color, type, price)
+`Printer (code, model, color, type, price)`
 
 The Product table contains data:
 - maker
@@ -31,5 +31,7 @@ Each personal computer in the PC table is unambiguously identified by:
 The Laptop table is similar to the PC table, except that instead of the CD-ROM speed, it contains the screen size (in inches) – screen.
 
 For each printer model in the Printer table, its output type (‘y’ for color and ‘n’ for monochrome) – color field, printing technology ('Laser', 'Jet', or 'Matrix') – type, and price are specified.
+
+Sourse: https://www.sql-ex.ru/
 
 Database Schema: https://www.sql-ex.ru/help/select13.php#db_1
