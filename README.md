@@ -1,6 +1,6 @@
 # SQL training session
 
-## Short database description "Computer firm":
+### Short database description "Computer firm":
 
 The database scheme consists of four tables:
 
